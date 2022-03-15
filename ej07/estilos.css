@@ -1,0 +1,13 @@
+* {
+    margin: 0; 
+    padding: 0; 
+    box-sizing: border-box;
+}
+svg, img {
+    max-width: 100%; 
+}
+body {
+
+    background:  url(./img/decoration.png) left top no-repeat, url(./img/ribbon.png) right top no-repeat, url(./img/old_paper.jpg) left top no-repeat;
+    background-size: 25%, 10%, cover;
+}
